@@ -1,0 +1,14 @@
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/bin/Debug/net7.0/2.5-delta
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/bin/Debug/net7.0/2.5-delta.deps.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/bin/Debug/net7.0/2.5-delta.runtimeconfig.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/bin/Debug/net7.0/2.5-delta.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/bin/Debug/net7.0/2.5-delta.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/2.5-delta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/2.5-delta.AssemblyInfoInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/2.5-delta.AssemblyInfo.cs
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/2.5-delta.csproj.CoreCompileInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/2.5-delta.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/refint/2.5-delta.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/2.5-delta.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/2.5-delta.genruntimeconfig.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.5-delta/obj/Debug/net7.0/ref/2.5-delta.dll
