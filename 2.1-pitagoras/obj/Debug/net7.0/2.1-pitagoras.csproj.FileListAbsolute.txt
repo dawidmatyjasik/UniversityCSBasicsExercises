@@ -1,0 +1,14 @@
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/bin/Debug/net7.0/2.1-pitagoras
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/bin/Debug/net7.0/2.1-pitagoras.deps.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/bin/Debug/net7.0/2.1-pitagoras.runtimeconfig.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/bin/Debug/net7.0/2.1-pitagoras.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/bin/Debug/net7.0/2.1-pitagoras.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/2.1-pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/2.1-pitagoras.AssemblyInfoInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/2.1-pitagoras.AssemblyInfo.cs
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/2.1-pitagoras.csproj.CoreCompileInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/2.1-pitagoras.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/refint/2.1-pitagoras.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/2.1-pitagoras.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/2.1-pitagoras.genruntimeconfig.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.1-pitagoras/obj/Debug/net7.0/ref/2.1-pitagoras.dll
