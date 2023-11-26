@@ -1,0 +1,14 @@
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/bin/Debug/net7.0/2.3-kantor
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/bin/Debug/net7.0/2.3-kantor.deps.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/bin/Debug/net7.0/2.3-kantor.runtimeconfig.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/bin/Debug/net7.0/2.3-kantor.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/bin/Debug/net7.0/2.3-kantor.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/2.3-kantor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/2.3-kantor.AssemblyInfoInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/2.3-kantor.AssemblyInfo.cs
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/2.3-kantor.csproj.CoreCompileInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/2.3-kantor.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/refint/2.3-kantor.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/2.3-kantor.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/2.3-kantor.genruntimeconfig.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.3-kantor/obj/Debug/net7.0/ref/2.3-kantor.dll
