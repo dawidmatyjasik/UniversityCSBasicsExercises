@@ -1,0 +1,14 @@
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/2.4-access.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/2.4-access.AssemblyInfoInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/2.4-access.AssemblyInfo.cs
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/2.4-access.csproj.CoreCompileInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/bin/Debug/net7.0/2.4-access
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/bin/Debug/net7.0/2.4-access.deps.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/bin/Debug/net7.0/2.4-access.runtimeconfig.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/bin/Debug/net7.0/2.4-access.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/bin/Debug/net7.0/2.4-access.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/2.4-access.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/refint/2.4-access.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/2.4-access.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/2.4-access.genruntimeconfig.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.4-access/obj/Debug/net7.0/ref/2.4-access.dll
