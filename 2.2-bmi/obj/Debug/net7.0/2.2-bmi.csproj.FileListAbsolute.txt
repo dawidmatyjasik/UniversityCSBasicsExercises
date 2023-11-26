@@ -1,0 +1,14 @@
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/bin/Debug/net7.0/2.2-bmi
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/bin/Debug/net7.0/2.2-bmi.deps.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/bin/Debug/net7.0/2.2-bmi.runtimeconfig.json
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/bin/Debug/net7.0/2.2-bmi.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/bin/Debug/net7.0/2.2-bmi.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/2.2-bmi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/2.2-bmi.AssemblyInfoInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/2.2-bmi.AssemblyInfo.cs
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/2.2-bmi.csproj.CoreCompileInputs.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/2.2-bmi.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/refint/2.2-bmi.dll
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/2.2-bmi.pdb
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/2.2-bmi.genruntimeconfig.cache
+/Users/dawidspisak/Documents/studia/pp-cwiczenia/2.2-bmi/obj/Debug/net7.0/ref/2.2-bmi.dll
